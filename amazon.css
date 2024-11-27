@@ -1,0 +1,385 @@
+body{
+    background: linear-gradient(yellow,rgb(250, 214, 214),yellow,rgb(248, 214, 214));
+}
+.div1{
+    height: 70px;
+    width: 1300px;
+    background-color: rgb(15, 15, 15);
+}
+.div2{
+    height: 45px;
+    width: 150px;
+    position: absolute;
+    left: 10px;
+    top: 20px;
+}
+#logo1{
+    height: 60px;
+    width: 100px;
+    position: absolute;
+    left: 20px;
+}
+.div2:hover{
+    border: 2px solid white;
+}
+.div3{
+    height: 40px;
+    width: 240px;
+    position: absolute;
+    left: 170px;
+    top: 20px;
+    color: white;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    
+}
+.div3:hover{
+    border: 2px solid white;
+}
+#p1{
+    position: absolute;
+    font-size: 15px;
+    
+}
+.div4{
+    position: absolute;
+    left: 420px;
+    top: 30px;
+}
+#select1{
+    height: 30px;
+    width: 50px;
+    border-radius: 1px;
+    background-color: rgb(189, 187, 187);
+    color:black;
+    top: 5px;
+}
+#select1:hover{
+    background-color: rgb(117, 115, 115);
+    color: yellow;
+}
+#input1{
+    width: 370px;
+    height: 30px;
+    left: 100px;
+    background-color: white;
+    color: black;
+}
+.div5{
+    position: absolute;
+    left: 470px;
+    top: 29px;
+}
+.div6{
+    position: absolute;
+    left: 840px;
+    top: 29px;
+    background-color: orange;
+}
+#img1{
+    height: 30px;
+}
+.div7{
+    position: absolute;
+    left: 900px;
+    top: 35px;
+    color: white;
+    
+}
+#img2{
+    height: 20px;
+}
+#eng{
+    position: absolute;
+    left: 930px;
+    color: white;
+    top: 7PX;
+    font-size: 20px;
+}
+.div9{
+    position: absolute;
+    left: 1000px;
+    top: 10px;
+    color: white;
+    
+}
+.div9:hover{
+    border: 2px solid white;  
+}
+.div10{
+    position: absolute;
+    left: 1130px;
+    top: 10px;
+    color: white;
+    
+}
+.div10:hover{
+    border: 2px solid white;  
+}
+.div11{
+    position: absolute;
+    left: 1200px;
+    top: 15px;
+    color: white;
+    
+}
+#cart{
+    height: 50px;
+    width: 50px;
+}
+.div12{
+    position: absolute;
+    left: 1250px;
+    top: 5px;
+    color: white;
+    font-size: 23px;
+    
+}
+.div13:hover{
+    border: 2px solid white;
+}
+.div11:hover{
+    border: 2px solid white;
+}
+.nav1 li{
+    list-style: none;
+    float: left;
+    margin: 10px;
+    
+}
+.nav1 ol{
+    background-color: rgb(48, 47, 47);
+    position: absolute;
+    top: 60px;
+    width: 1262px;
+    height: 30px;
+    color: white;
+
+}
+#gif{
+    position: absolute;
+    top: 105px;
+    height: 300px;
+    width: 1305px;
+}
+.div15{
+    background-color: white;
+    height: 370px;
+    width: 280px;
+    position: absolute;
+    top: 410px;
+    color: black;
+}
+#air{
+    height: 110px;
+    position: absolute;
+    left: 0px;
+}
+#washing{
+    height: 110px;
+    position: absolute;
+    left: 170px;
+    width: 100px;
+}
+#ref{
+    height: 110px;
+    position: absolute;
+    left: 160px;
+    bottom: 25px;
+}
+#micro{
+    height: 110px;
+    position: absolute;
+    left: 0px;
+    bottom: 25px;
+}
+#air1{
+    color: black;
+    position: absolute;
+    top: 180px;
+}
+#wash1{
+    color: black;
+    position: absolute;
+    top: 180px;
+    left: 150px;
+}
+#ref1{
+    color: black;
+    position: absolute;
+    top: 330px;
+    left: 160px;
+}
+#micro1{
+    color: black;
+    position: absolute;
+    top: 330px;
+}
+.div16{
+    background-color:white;
+    height: 370px;
+    width: 280px;
+    position: absolute;
+    top: 410px;
+    color: black;
+    left: 330px;
+}
+#box1{
+    height: 110px;
+    position: absolute;
+    left: 0px;
+    width: 120px;
+}
+#box2{
+    height: 110px;
+    position: absolute;
+    left: 170px;
+    width: 100px;
+}
+#box3{
+    height: 110px;
+    position: absolute;
+    left: 160px;
+    bottom: 25px;
+    width: 100px;
+}
+#box5{
+    height: 110px;
+    position: absolute;
+    left: 0px;
+    bottom: 25px;
+}
+#box11{
+    color: black;
+    position: absolute;
+    top: 180px;
+}
+#box21{
+    color: black;
+    position: absolute;
+    top: 180px;
+    left: 150px;
+}
+#box31{
+    color: black;
+    position: absolute;
+    top: 330px;
+    left: 160px;
+}
+#box51{
+    color: black;
+    position: absolute;
+    top: 330px;
+}
+.div17{
+    background-color: white;
+    height: 370px;
+    width: 280px;
+    position: absolute;
+    top: 410px;
+    color: black;
+    left: 650px;
+}
+#box4{
+    height: 110px;
+    position: absolute;
+    left: 0px;
+    width: 120px;
+}
+#box6{
+    height: 110px;
+    position: absolute;
+    left: 170px;
+    width: 100px;
+}
+#box7{
+    height: 110px;
+    position: absolute;
+    left: 160px;
+    bottom: 25px;
+    width: 100px;
+}
+#box8{
+    height: 110px;
+    position: absolute;
+    left: 0px;
+    bottom: 25px;
+}
+#box41{
+    color: black;
+    position: absolute;
+    top: 180px;
+}
+#box61{
+    color: black;
+    position: absolute;
+    top: 180px;
+    left: 150px;
+}
+#box71{
+    color: black;
+    position: absolute;
+    top: 330px;
+    left: 160px;
+}
+#box81{
+    color: black;
+    position: absolute;
+    top: 330px;
+}
+.div18{
+    background-color: white;
+    height: 370px;
+    width: 280px;
+    position: absolute;
+    top: 410px;
+    color: black;
+    left: 970px;
+}
+#gal5{
+    height: 110px;
+    position: absolute;
+    left: 0px;
+    width: 120px;
+}
+#gal10{
+    height: 110px;
+    position: absolute;
+    left: 170px;
+    width: 100px;
+}
+#gal3{
+    height: 110px;
+    position: absolute;
+    left: 160px;
+    bottom: 25px;
+    width: 100px;
+}
+#gal9{
+    height: 110px;
+    position: absolute;
+    left: 0px;
+    bottom: 25px;
+}
+#gal51{
+    color: black;
+    position: absolute;
+    top: 180px;
+}
+#gal101{
+    color: black;
+    position: absolute;
+    top: 180px;
+    left: 150px;
+}
+#gal31{
+    color: black;
+    position: absolute;
+    top: 330px;
+    left: 160px;
+}
+#gal91{
+    color: black;
+    position: absolute;
+    top: 330px;
+}

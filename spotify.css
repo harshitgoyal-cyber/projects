@@ -1,0 +1,601 @@
+.body{
+    background-color: rgb(0, 0, 0);
+}
+.div1{
+    background-color: rgb(0, 0,0);
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    height: 1200px;
+    width: 300px;
+}
+#home{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    
+}
+#home1{
+    position: absolute;
+    top: 60px;;
+    right: 1px;
+}
+#logo1{
+    position: absolute;
+    top:70px ;
+    right: 70px;
+
+}
+#logo2{
+    position: absolute;
+    height: 40px;
+    top: 120px;
+    right: 230px;
+}
+.div2{
+    height: 180px;
+    background-color: rgb(26, 25, 25);
+    border-radius: 10px;
+    width: 280px;
+    position: absolute;
+}
+#search1{
+    position: absolute;
+    top: 115px;
+    right: 160px;
+    color: white;
+    font-size: 20px;
+}
+#logo{
+    height: 30px;
+    width: 30px;
+
+}
+.div3{
+    position: absolute;
+    top: 210px;
+    height: 300px;
+    width: 280px;
+    background-color: rgb(22, 22, 22);
+    color: white;
+    border-radius: 10px;
+    left: 2px;
+
+}
+#your{
+    position: absolute;
+    top: 10px;
+    left: 65px;
+}
+#img4{
+    height: 30px;
+    position: absolute;
+    right: 10px;
+    top: 30px;
+}
+.div5{
+    position: absolute;
+    background-color: rgb(114, 110, 110);
+    height: 100px;
+    width: 260px;
+    top: 270px;
+    color: white;
+    left: 9px;
+    border-radius: 10px;
+}
+#cyrp{
+    position: absolute;
+    left: 60px;
+    top: 20px;
+}
+#easy{
+    position: absolute;
+    top: 20px;
+}
+#cp{
+    background-color: white;
+    position: absolute;
+    left: 10px;
+    border-radius: 10px;
+}
+#legal{
+    bottom: 10px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+}
+.div6{
+    height: 60px;
+    width: 1000px;
+    background-color: rgb(43, 42, 42);
+    position: absolute;
+    top: 7px;
+    left: 300px;
+}
+#img5{
+    height: 60px;
+}
+#img6{
+    height: 60px;
+}
+#sign{
+    position: absolute;
+    right: 120px;
+    height: 40px;
+    background-color: rgb(43, 42, 42);
+    font-size: 20px;
+    color: white;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+#log{
+    position: absolute;
+    right: 10px;
+    height: 40px;
+    background-color: white;
+    font-size: 20px;
+    color: black;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 10px;
+}
+.div7{
+    position: absolute;
+    background-color: black;
+    height: 30px;
+    width: 1000px;
+    left: 300px;
+    top: 80px;
+}
+.div8{
+    position: absolute;
+    background-color: rgb(43, 42, 42);
+    height: 1200px;
+    width: 1000px;
+    left: 300px;
+    top: 110px;
+    color: white;
+    padding-left: 15px;
+}
+
+.div9{
+    position: absolute;
+    background-color:  rgb(43, 42, 42);
+    height: 230px;
+    width: 170px;
+    left: 10px;
+    top: 80px;
+    color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+    
+
+}
+#maini1{
+    height: 140px;
+    position: absolute;
+    left: 20px;
+    top: 5px;
+}
+#animal{
+    position: absolute;
+    bottom: 30px;
+    font-size: 20px;
+}
+#ANI{
+    position: absolute;
+    bottom: 0px;
+}
+#play1{
+    height: 25px;
+    position: absolute;
+    background-color: lightgreen;
+    left: 125px;
+    bottom: 90px;
+    border-radius: 20px;
+    opacity: 0;
+}
+.div10{
+    position: absolute;
+    background-color:  rgb(43, 42, 42);
+    height: 230px;
+    width: 170px;
+    left: 200px;
+    top: 80px;
+    color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+#play2{
+    height: 25px;
+    position: absolute;
+    background-color: lightgreen;
+    left: 125px;
+    bottom: 90px;
+    border-radius: 20px;
+    opacity: 0;
+}
+#lofi{
+    position: absolute;
+    bottom: 0px;
+}
+#lofib{
+    position: absolute;
+    bottom: 30px;
+    font-size: 20px;
+}
+#maini2{
+    height: 140px;
+    position: absolute;
+    left: 20px;
+    top: 5px;
+}
+.div11{
+    position: absolute;
+    background-color:  rgb(43, 42, 42);
+    height: 230px;
+    width: 170px;
+    left: 390px;
+    top: 80px;
+    color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+#maini3{
+    height: 140px;
+    position: absolute;
+    left: 20px;
+    top: 5px;
+}
+#sr{
+    position: absolute;
+    bottom: 30px;
+    font-size: 20px;
+}
+#still{
+    position: absolute;
+    bottom: 0px;
+}
+#play3{
+    height: 25px;
+    position: absolute;
+    background-color: lightgreen;
+    left: 125px;
+    bottom: 90px;
+    border-radius: 20px;
+    opacity: 0;
+}
+.div12{
+    position: absolute;
+    background-color:  rgb(43, 42, 42);
+    height: 230px;
+    width: 170px;
+    left: 580px;
+    top: 80px;
+    color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+#maini4{
+    height: 140px;
+    position: absolute;
+    left: 20px;
+    top: 5px;
+}
+#sat{
+    position: absolute;
+    bottom: 30px;
+    font-size: 20px;
+}
+#satr{
+    position: absolute;
+    bottom: 0px;
+}
+#play4{
+    height: 25px;
+    position: absolute;
+    background-color: lightgreen;
+    left: 125px;
+    bottom: 90px;
+    border-radius: 20px;
+    opacity: 0;
+}
+.div13{
+    position: absolute;
+    background-color:  rgb(43, 42, 42);
+    height: 230px;
+    width: 170px;
+    left: 780px;
+    top: 80px;
+    color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+#maini5{
+    height: 140px;
+    position: absolute;
+    left: 20px;
+    top: 5px;
+}
+#a2{
+    position: absolute;
+    bottom: 30px;
+    font-size: 20px;
+}
+#ankit{
+    position: absolute;
+    bottom: 0px;
+}
+#play5{
+    height: 25px;
+    position: absolute;
+    background-color: lightgreen;
+    left: 125px;
+    bottom: 90px;
+    border-radius: 20px;
+    opacity: 0;
+}
+#pr{
+    position: absolute;
+    color: white;
+    bottom: 800px;
+    font-size: 30px;
+}
+.if1{
+    position: absolute;
+    bottom: 670px;
+    left: 1px;
+}
+.if2{
+    position: absolute;
+    bottom: 520px;
+    left: 1px;
+}
+.if3{
+    position: absolute;
+    bottom: 370px;
+    left: 1px;
+}
+#sop{
+    position: absolute;
+    color: white;
+    bottom: 300px;
+    font-size: 30px;
+}
+.div15{
+    position: absolute;
+    background-color: rgb(43, 42, 42);
+    height: 230px;
+    width: 170px;
+    left: 10px;
+    bottom: 70px;
+    color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+#maini6{
+    height: 140px;
+    position: absolute;
+    left: 20px;
+    top: 5px;
+}
+#chillout{
+    position: absolute;
+    bottom: 30px;
+    font-size: 20px;
+}
+#just{
+    position: absolute;
+    bottom: 0px;
+}
+#play6{
+    height: 25px;
+    position: absolute;
+    background-color: lightgreen;
+    left: 125px;
+    bottom: 90px;
+    border-radius: 20px;
+    opacity: 0;
+}
+.div16{
+    position: absolute;
+    background-color: rgb(43, 42, 42);
+    height: 230px;
+    width: 170px;
+    left: 210px;
+    bottom: 70px;
+    color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+#maini7{
+    height: 140px;
+    position: absolute;
+    left: 20px;
+    top: 5px;
+}
+#allout{
+    position: absolute;
+    bottom: 30px;
+    font-size: 20px;
+}
+#songs{
+    position: absolute;
+    bottom: 0px;
+}
+#play7{
+    height: 25px;
+    position: absolute;
+    background-color: lightgreen;
+    left: 125px;
+    bottom: 90px;
+    border-radius: 20px;
+    opacity: 0;
+}
+.div17{
+    position: absolute;
+    background-color:  rgb(43, 42, 42);
+    height: 230px;
+    width: 170px;
+    left: 410px;
+    bottom: 70px;
+    color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+#maini8{
+    height: 140px;
+    position: absolute;
+    left: 20px;
+    top: 5px;
+}
+#jazz{
+    position: absolute;
+    bottom: 30px;
+    font-size: 20px;
+}
+#instru{
+    position: absolute;
+    bottom: 0px;
+}
+#play8{
+    height: 25px;
+    position: absolute;
+    background-color: lightgreen;
+    left: 125px;
+    bottom: 90px;
+    border-radius: 20px;
+    opacity: 0;
+}
+.div17:hover{
+    background-color: rgb(65, 64, 64);
+}
+.div16:hover{
+    background-color: rgb(65, 64, 64);
+}
+.div15:hover{
+    background-color: rgb(65, 64, 64);
+}
+.div13:hover{
+    background-color: rgb(65, 64, 64);
+}
+.div12:hover{
+    background-color: rgb(65, 64, 64);
+}
+.div11:hover{
+    background-color: rgb(65, 64, 64);
+}
+.div10:hover{
+    background-color: rgb(65, 64, 64);
+}
+.div9:hover{
+    background-color: rgb(65, 64, 64);
+}
+.div18:hover{
+    background-color: rgb(65, 64, 64);
+}
+.div19:hover{
+    background-color: rgb(65, 64, 64);
+}
+.div18:hover #play9{
+   opacity: 1;
+}
+.div9:hover #play1{
+    opacity: 1;
+ }
+ .div10:hover #play2{
+    opacity: 1;
+ }
+ .div11:hover #play3{
+    opacity: 1;
+ }
+ .div12:hover #play4{
+    opacity: 1;
+ }
+ .div13:hover #play5{
+    opacity: 1;
+ }
+ .div15:hover #play6{
+    opacity: 1;
+ }
+ .div16:hover #play7{
+    opacity: 1;
+ }
+ .div17:hover #play8{
+    opacity: 1;
+ }
+ .div19:hover #play10{
+    opacity: 1;
+ }
+.div18{
+    position: absolute;
+    background-color:  rgb(43, 42, 42);
+    height: 230px;
+    width: 170px;
+    left: 610px;
+    bottom: 70px;
+    color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+#maini9{
+    height: 140px;
+    position: absolute;
+    left: 20px;
+    top: 5px;
+}
+#deap{
+    position: absolute;
+    bottom: 30px;
+    font-size: 20px;
+}
+#focus{
+    position: absolute;
+    bottom: 0px;
+}
+#play9{
+    height: 25px;
+    position: absolute;
+    background-color: lightgreen;
+    left: 125px;
+    bottom: 90px;
+    border-radius: 20px;
+    opacity: 0;
+}
+.div19{
+    position: absolute;
+    background-color:  rgb(43, 42, 42);
+    height: 230px;
+    width: 170px;
+    left: 810px;
+    bottom: 70px;
+    color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+#maini10{
+    height: 140px;
+    position: absolute;
+    left: 20px;
+    top: 5px;
+}
+#study{
+    position: absolute;
+    bottom: 30px;
+    font-size: 20px;
+}
+#beat{
+    position: absolute;
+    bottom: 0px;
+}
+#play10{
+    height: 25px;
+    position: absolute;
+    background-color: lightgreen;
+    left: 125px;
+    bottom: 90px;
+    border-radius: 20px;
+    opacity: 0;
+}
